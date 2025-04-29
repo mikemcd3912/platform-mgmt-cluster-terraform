@@ -1,0 +1,6 @@
+{
+    "name": "Terraform Dev",
+    "build": {
+      "dockerfile": "Dockerfile"
+    }
+  }
